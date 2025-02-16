@@ -12,6 +12,15 @@
 - Python 3.x
 - No external dependencies are required
 
+## Disclaimer
+
+**PyScan** is a network scanning tool designed for educational and testing purposes only. The use of this tool for unauthorized scanning or accessing networks without permission is illegal and unethical.
+
+By using this tool, you acknowledge that you are responsible for ensuring that you have explicit permission to scan the target network or system. The author of this project is not responsible for any misuse or illegal activities arising from the use of this tool.
+
+Use at your own risk.
+
+
 ## Installation
 
 ### Step 1: Clone the repository
