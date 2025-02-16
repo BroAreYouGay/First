@@ -19,8 +19,10 @@
 ```bash
 git clone https://github.com/yourusername/PyScan.git
 cd PyScan
+```
 
 ### Step 2: Start the program
 
 ```bash
 python pyscan.py
+```
