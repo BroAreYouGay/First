@@ -23,7 +23,7 @@ By using this tool, you acknowledge that you are responsible for ensuring that y
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/PyScan.git
+git clone https://github.com/Pr0t0k0l777/PyScan.git
 cd PyScan
 ```
 
